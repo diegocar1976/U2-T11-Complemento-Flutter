@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/88c3a57b-5ae3-4b36-8882-addd66bddacc)Datos
+Datos
 - Nombre: Diego Emmanuel Cardenas Baeza
 - Grupo: GIDS4092
 - Materia: Desarrollo de Dispositivos Inteligentes
@@ -74,6 +74,7 @@ Aplicación YesOrNo
 
 
 Enlace del repositorio de GitHub wearable
+
 https://github.com/AngelOrtega26/SleepMonitorGIDS4092.git
 
 

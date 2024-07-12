@@ -19,3 +19,6 @@ Actividades
 12. Async Await. 0.25 puntos.
 13. Try catch finally. 0.25
 
+Actividad 1. Hello World. 0.25 puntos.
+![image](https://github.com/user-attachments/assets/050c17ff-1df9-4764-89d9-afea16172c1d)
+
